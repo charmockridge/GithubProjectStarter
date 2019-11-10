@@ -2,9 +2,9 @@
 
 cd
 python start.py $1
-cd /Users/malcolmherbert/Documents/Charlie/Projects/MyProjects/$1
+cd /Users/edit/path/to/match/your/own/$1
 git init
-git remote add origin https://github.com/charmockridge/$1.git
+git remote add origin https://github.com/github username here/$1.git
 touch README.md
 git add .
 git commit -m "first commit"

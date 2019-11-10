@@ -3,7 +3,7 @@ import sys
 import os
 
 
-path = "/Users/malcolmherbert/Documents/Charlie/Projects/MyProjects/"
+path = "/Users/edit/path/to/match/your/own/"
 username = "your github username"
 password = "your github password"
 
