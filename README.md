@@ -2,7 +2,7 @@
 
 This program is for Mac and Linux Distributions!
 
-Open terminal, and in a directory of your choice, paste:<br>git clone https://github.com/charmockridge/MacGithubProjectStarter.git<br>Then, if you don't have PyGithub or you are unsure, in the terminal paste:<br>pip install PyGithub<br>
+Open terminal, and in a directory of your choice, paste:<br>git clone https://github.com/charmockridge/GithubProjectStarter.git<br>Then, if you don't have PyGithub or you are unsure, in the terminal paste:<br>pip install PyGithub<br>
 
 
 # Set Up
